@@ -1,0 +1,4 @@
+package Operator
+
+class LogicalOperator {
+}
