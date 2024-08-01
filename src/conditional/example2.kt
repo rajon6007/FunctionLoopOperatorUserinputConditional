@@ -1,4 +1,4 @@
-package Condition
+package conditional
 
 fun main(){
     var a =40
